@@ -5,8 +5,6 @@ SUMMARY
 -------
 
 
-ASMKLDNFJKANF
-
 Data description
 ----------------
 
@@ -16,7 +14,6 @@ Data description
 #### Example data 
 
 - All data is provided, and the link to .zip files is is available with the manuscript.
-- The data files include the codebook which is also available for free. 
 
 
 ### Analysis Data Files
@@ -58,9 +55,9 @@ Data checks
 Code description
 
 
-There is one provided Stata do file named "empirical analysis.do". All data tables and figures are coded in this file. Each table/figure is preceeded by clear headers describing which table/figure the following code represents.
+There is one provided Stata do file named ["empirical analysis.do"](https://github.com/aditikadam3/Replication-Assesment/blob/master/Data/empirical%20analysis.do). All data tables and figures are coded in this file. Each table/figure is preceeded by clear headers describing which table/figure the following code represents.
 
-Refer to "code-checkAk.xls" to see a list of tables and figures and status of replication.
+Refer to ["code-checkAk.xls"](https://github.com/aditikadam3/Replication-Assesment/blob/master/code-checkAk.xlsx) to see a list of tables and figures and status of replication.
 
 
 Stated Requirements
@@ -108,7 +105,7 @@ Findings
 
 Examples:
 
-- Program `empirical analysis.do` failed to produce any output for table 8 and figure 7. The rest of the file ran without errors.
+- Program [`empirical analysis.do`](https://github.com/aditikadam3/Replication-Assesment/blob/master/Data/empirical%20analysis.do) failed to produce any output for table 8 and, figures 6 and 7. The rest of the file ran without errors.
 
 ### Tables
 
