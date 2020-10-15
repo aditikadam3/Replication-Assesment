@@ -13,7 +13,6 @@ Data description
 ### Data Sources
 > All data used in the paper were collected by the authors.  [All data are available for public use here.](https://www.sciencedirect.com/science/article/abs/pii/S0304387815000085?via%3Dihub#ec-research-data) 
 
-> INSTRUCTIONS: Identify all INPUT data sources. Create a list (and commit the list together with this report) (not needed if filling out the "Data Citation and Information report"). For each data source, list in THIS document presence or absence of source, codebook/information on the data, and summary statistics. Summary statistics and codebook may not be necessary if they are available for public use data. In all cases, if the author of the article points to an online location for such information, that is OK. Check for data citation. IN THIS DOCUMENT, point out only a summary of shortcomings.
 
 #### Example data 
 
