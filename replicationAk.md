@@ -63,7 +63,6 @@ Refer to ["code-checkAk.xls"](https://github.com/aditikadam3/Replication-Assesme
 Stated Requirements
 ---------------------
 
-
 - [X] Software Requirements specified as follows:
   - Sata
 
